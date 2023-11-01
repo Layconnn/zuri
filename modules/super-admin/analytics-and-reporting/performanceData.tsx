@@ -124,7 +124,7 @@ const PerformanceData: React.FC<zaProps> = ({ dateRange, reportClicked }) => {
                 </div>
                 <div className="max-w-[11.5rem] w-full py-[0.75rem] border-b-[#EAECF0] border-b-[0.0625rem] bg-[#FCFCFD] max-[778px]:min-w-[8.5rem]">
                   <p className="text-[0.875rem] text-center font-manropeL text-[#667085] font-normal leading-[1.25rem] tracking-[0.00088rem] max-[834px]:text-[0.75rem]">
-                    Transaction volume
+                    Transaction volumes
                   </p>
                 </div>
                 <div className="max-w-[11.63rem] w-full py-[0.75rem] border-b-[#EAECF0] border-b-[0.0625rem] bg-[#FCFCFD] max-[778px]:min-w-[8.63rem]">
